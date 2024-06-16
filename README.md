@@ -1,4 +1,4 @@
-#Snakey Dance
+# Snakey Dance
 
 A small game made for the [2021-ut-gameguild-winter-game-jam](https://itch.io/jam/2021-ut-gameguild-winter-game-jam)
 
